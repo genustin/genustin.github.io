@@ -8,10 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : My Blog =)
+title : Pisum sativum
 tagline: Site Tagline
 author :
-  name : Wayne
+  name : wayne
   email : wenqiangh1985@gmail.com   
   github : genustin
   twitter : genustin     
